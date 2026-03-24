@@ -104,7 +104,7 @@ Screenshots of program outputs are available in the `screenshots/` folder:
 * networkoutput1.png
 * networkoutput2.png
 * networkoutput3.png
-* networkoutput4.png and networkoutput4.1)
+* networkoutput4.png and networkoutput4.1
 
 ## Features Implemented
 

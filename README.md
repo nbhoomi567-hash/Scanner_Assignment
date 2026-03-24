@@ -94,12 +94,6 @@ python network_scanner.py
 * Logging
 * Multi-threading
 
-### GUI Scanner (BONUS)
-
-```bash
-python gui_scanner.py
-```
-
 ## Screenshots
 
 Screenshots of program outputs are available in the `screenshots/` folder:

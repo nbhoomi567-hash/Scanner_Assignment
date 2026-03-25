@@ -17,7 +17,7 @@
 ![output_csv](../output_csv_file.png)
 
 ## Unified_Scanning
-![network_output1](../network output1.png)
+![network_output1](../networkoutput1.png)
 
 ![network_output2](../network output2.png)
 

@@ -29,6 +29,5 @@
 
 ### output for choice4:
 ![network_output4](../network_output4.png)
-![network_output4](../network_output4.1.png)
 
 ![network_output4](../network_output4.1.png)
